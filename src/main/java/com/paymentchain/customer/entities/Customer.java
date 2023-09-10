@@ -15,5 +15,4 @@ public class Customer {
     private Long Id;
     private String name;
     private String phone;
-
 }
